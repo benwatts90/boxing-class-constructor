@@ -1,0 +1,14 @@
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.csproj.AssemblyReference.cache
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.AssemblyInfoInputs.cache
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.AssemblyInfo.cs
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.csproj.CoreCompileInputs.cache
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.exe
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.deps.json
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.runtimeconfig.json
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.runtimeconfig.dev.json
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.dll
+C:\Users\benwa\source\repos\boxers\bin\Debug\netcoreapp3.1\boxers.pdb
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.dll
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.pdb
+C:\Users\benwa\source\repos\boxers\obj\Debug\netcoreapp3.1\boxers.genruntimeconfig.cache
